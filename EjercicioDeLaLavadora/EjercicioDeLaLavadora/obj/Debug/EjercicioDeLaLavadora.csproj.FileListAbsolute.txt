@@ -1,0 +1,7 @@
+C:\Talleres\EjercicioDeLaLavadora\EjercicioDeLaLavadora\bin\Debug\EjercicioDeLaLavadora.exe.config
+C:\Talleres\EjercicioDeLaLavadora\EjercicioDeLaLavadora\bin\Debug\EjercicioDeLaLavadora.exe
+C:\Talleres\EjercicioDeLaLavadora\EjercicioDeLaLavadora\bin\Debug\EjercicioDeLaLavadora.pdb
+C:\Talleres\EjercicioDeLaLavadora\EjercicioDeLaLavadora\obj\Debug\EjercicioDeLaLavadora.csproj.AssemblyReference.cache
+C:\Talleres\EjercicioDeLaLavadora\EjercicioDeLaLavadora\obj\Debug\EjercicioDeLaLavadora.csproj.CoreCompileInputs.cache
+C:\Talleres\EjercicioDeLaLavadora\EjercicioDeLaLavadora\obj\Debug\EjercicioDeLaLavadora.exe
+C:\Talleres\EjercicioDeLaLavadora\EjercicioDeLaLavadora\obj\Debug\EjercicioDeLaLavadora.pdb

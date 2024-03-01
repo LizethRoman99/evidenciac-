@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CRUDMVC5.Models;
+using Microsoft.CodeAnalysis.Elfie.Serialization;
 
 namespace CRUDMVC5.Controllers
 {
@@ -19,15 +20,33 @@ namespace CRUDMVC5.Controllers
         }
 
         // GET: Usuarios
-        public async Task<IActionResult> Index(string buscar)
+        public async Task<IActionResult> Index(string buscar,String filtro)
         {
               var usuarios = from Usuario in _context.Usuarios select Usuario;
 
             if(!String.IsNullOrEmpty(buscar))
             {
                 usuarios = usuarios.Where(s =>s.Nombre!.Contains(buscar));
+                ViewData["FiltroNombre"] = String.IsNullOrEmpty(filtro) ? "NombreDescendente" : "";
+                ViewData["filtroFecha"] = filtro ==  "FechaAscendente" ? "FechaDescendente":"FechaAscendente";
+                switch(filtro)
+                {
+                    case "NombreDescendente":
+                        usuarios = usuarios.OrderByDescending(usuario => usuario.Nombre);
+                        break;
+                    case "FechaDescentente":
+                        usuarios = usuarios.OrderByDescending(usuarios => usuarios.Fecha);
+                        break;
+                    case "FechaScendente":
+                        usuarios = usuarios.OrderBy(usuarios => usuarios.Fecha);
+                        break;
+                    default:
+                        usuarios = usuarios.OrderByDescending(usuario => usuario.Nombre);
+                        break;
+                }
 
             }
+            //retornamos la lista de usuarios encontrados
             return View(await usuarios.ToListAsync());
         }
 

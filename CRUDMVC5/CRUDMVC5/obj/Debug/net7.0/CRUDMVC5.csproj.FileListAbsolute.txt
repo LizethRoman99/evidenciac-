@@ -251,3 +251,4 @@ C:\Crudc#\CRUDMVC5\CRUDMVC5\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Dra
 C:\Crudc#\CRUDMVC5\CRUDMVC5\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Crudc#\CRUDMVC5\CRUDMVC5\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Crudc#\CRUDMVC5\CRUDMVC5\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Crudc#\CRUDMVC5\CRUDMVC5\obj\Debug\net7.0\CRUDMVC5.sourcelink.json

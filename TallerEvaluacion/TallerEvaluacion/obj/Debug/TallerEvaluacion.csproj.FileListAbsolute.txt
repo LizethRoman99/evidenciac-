@@ -1,0 +1,7 @@
+C:\Talleres\TallerEvaluacion\TallerEvaluacion\bin\Debug\TallerEvaluacion.exe.config
+C:\Talleres\TallerEvaluacion\TallerEvaluacion\bin\Debug\TallerEvaluacion.exe
+C:\Talleres\TallerEvaluacion\TallerEvaluacion\bin\Debug\TallerEvaluacion.pdb
+C:\Talleres\TallerEvaluacion\TallerEvaluacion\obj\Debug\TallerEvaluacion.csproj.AssemblyReference.cache
+C:\Talleres\TallerEvaluacion\TallerEvaluacion\obj\Debug\TallerEvaluacion.csproj.CoreCompileInputs.cache
+C:\Talleres\TallerEvaluacion\TallerEvaluacion\obj\Debug\TallerEvaluacion.exe
+C:\Talleres\TallerEvaluacion\TallerEvaluacion\obj\Debug\TallerEvaluacion.pdb
