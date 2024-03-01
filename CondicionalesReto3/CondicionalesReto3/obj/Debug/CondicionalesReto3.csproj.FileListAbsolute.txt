@@ -1,0 +1,7 @@
+C:\Talleres\CondicionalesReto3\CondicionalesReto3\bin\Debug\CondicionalesReto3.exe.config
+C:\Talleres\CondicionalesReto3\CondicionalesReto3\bin\Debug\CondicionalesReto3.exe
+C:\Talleres\CondicionalesReto3\CondicionalesReto3\bin\Debug\CondicionalesReto3.pdb
+C:\Talleres\CondicionalesReto3\CondicionalesReto3\obj\Debug\CondicionalesReto3.csproj.AssemblyReference.cache
+C:\Talleres\CondicionalesReto3\CondicionalesReto3\obj\Debug\CondicionalesReto3.csproj.CoreCompileInputs.cache
+C:\Talleres\CondicionalesReto3\CondicionalesReto3\obj\Debug\CondicionalesReto3.exe
+C:\Talleres\CondicionalesReto3\CondicionalesReto3\obj\Debug\CondicionalesReto3.pdb

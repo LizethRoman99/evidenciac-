@@ -1,0 +1,7 @@
+C:\Users\LIZETH\source\repos\FormateoDeDatos\FormateoDeDatos\bin\Debug\FormateoDeDatos.exe.config
+C:\Users\LIZETH\source\repos\FormateoDeDatos\FormateoDeDatos\bin\Debug\FormateoDeDatos.exe
+C:\Users\LIZETH\source\repos\FormateoDeDatos\FormateoDeDatos\bin\Debug\FormateoDeDatos.pdb
+C:\Users\LIZETH\source\repos\FormateoDeDatos\FormateoDeDatos\obj\Debug\FormateoDeDatos.csproj.AssemblyReference.cache
+C:\Users\LIZETH\source\repos\FormateoDeDatos\FormateoDeDatos\obj\Debug\FormateoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\LIZETH\source\repos\FormateoDeDatos\FormateoDeDatos\obj\Debug\FormateoDeDatos.exe
+C:\Users\LIZETH\source\repos\FormateoDeDatos\FormateoDeDatos\obj\Debug\FormateoDeDatos.pdb

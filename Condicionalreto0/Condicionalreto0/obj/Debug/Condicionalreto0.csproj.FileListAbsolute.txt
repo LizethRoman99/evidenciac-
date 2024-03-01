@@ -1,0 +1,7 @@
+C:\Talleres\Condicionalreto0\Condicionalreto0\obj\Debug\Condicionalreto0.csproj.AssemblyReference.cache
+C:\Talleres\Condicionalreto0\Condicionalreto0\obj\Debug\Condicionalreto0.csproj.CoreCompileInputs.cache
+C:\Talleres\Condicionalreto0\Condicionalreto0\bin\Debug\Condicionalreto0.exe.config
+C:\Talleres\Condicionalreto0\Condicionalreto0\bin\Debug\Condicionalreto0.exe
+C:\Talleres\Condicionalreto0\Condicionalreto0\bin\Debug\Condicionalreto0.pdb
+C:\Talleres\Condicionalreto0\Condicionalreto0\obj\Debug\Condicionalreto0.exe
+C:\Talleres\Condicionalreto0\Condicionalreto0\obj\Debug\Condicionalreto0.pdb

@@ -1,0 +1,14 @@
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\bin\Debug\net7.0\reto1.exe
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\bin\Debug\net7.0\reto1.deps.json
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\bin\Debug\net7.0\reto1.runtimeconfig.json
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\bin\Debug\net7.0\reto1.dll
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\bin\Debug\net7.0\reto1.pdb
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\reto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\reto1.AssemblyInfoInputs.cache
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\reto1.AssemblyInfo.cs
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\reto1.csproj.CoreCompileInputs.cache
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\reto1.dll
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\refint\reto1.dll
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\reto1.pdb
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\reto1.genruntimeconfig.cache
+C:\Appsconsole2\Tallertipodatosxxxx\reto1\obj\Debug\net7.0\ref\reto1.dll

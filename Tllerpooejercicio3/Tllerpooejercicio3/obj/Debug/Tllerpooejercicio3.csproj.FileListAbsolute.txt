@@ -1,0 +1,7 @@
+C:\Talleres\Tllerpooejercicio3\Tllerpooejercicio3\bin\Debug\Tllerpooejercicio3.exe.config
+C:\Talleres\Tllerpooejercicio3\Tllerpooejercicio3\bin\Debug\Tllerpooejercicio3.exe
+C:\Talleres\Tllerpooejercicio3\Tllerpooejercicio3\bin\Debug\Tllerpooejercicio3.pdb
+C:\Talleres\Tllerpooejercicio3\Tllerpooejercicio3\obj\Debug\Tllerpooejercicio3.csproj.AssemblyReference.cache
+C:\Talleres\Tllerpooejercicio3\Tllerpooejercicio3\obj\Debug\Tllerpooejercicio3.csproj.CoreCompileInputs.cache
+C:\Talleres\Tllerpooejercicio3\Tllerpooejercicio3\obj\Debug\Tllerpooejercicio3.exe
+C:\Talleres\Tllerpooejercicio3\Tllerpooejercicio3\obj\Debug\Tllerpooejercicio3.pdb

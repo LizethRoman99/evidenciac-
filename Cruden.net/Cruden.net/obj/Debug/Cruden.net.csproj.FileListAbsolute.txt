@@ -1,0 +1,7 @@
+C:\Talleres\Cruden.net\Cruden.net\bin\Debug\Cruden.net.exe.config
+C:\Talleres\Cruden.net\Cruden.net\bin\Debug\Cruden.net.exe
+C:\Talleres\Cruden.net\Cruden.net\bin\Debug\Cruden.net.pdb
+C:\Talleres\Cruden.net\Cruden.net\obj\Debug\Cruden.net.csproj.AssemblyReference.cache
+C:\Talleres\Cruden.net\Cruden.net\obj\Debug\Cruden.net.csproj.CoreCompileInputs.cache
+C:\Talleres\Cruden.net\Cruden.net\obj\Debug\Cruden.net.exe
+C:\Talleres\Cruden.net\Cruden.net\obj\Debug\Cruden.net.pdb

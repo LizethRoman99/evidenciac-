@@ -1,0 +1,7 @@
+C:\Talleres\tallerclase2\tallerclase2\bin\Debug\tallerclase2.exe.config
+C:\Talleres\tallerclase2\tallerclase2\bin\Debug\tallerclase2.exe
+C:\Talleres\tallerclase2\tallerclase2\bin\Debug\tallerclase2.pdb
+C:\Talleres\tallerclase2\tallerclase2\obj\Debug\tallerclase2.csproj.AssemblyReference.cache
+C:\Talleres\tallerclase2\tallerclase2\obj\Debug\tallerclase2.csproj.CoreCompileInputs.cache
+C:\Talleres\tallerclase2\tallerclase2\obj\Debug\tallerclase2.exe
+C:\Talleres\tallerclase2\tallerclase2\obj\Debug\tallerclase2.pdb

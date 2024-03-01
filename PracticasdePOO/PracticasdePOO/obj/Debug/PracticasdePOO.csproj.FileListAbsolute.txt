@@ -1,0 +1,7 @@
+C:\Talleres\PracticasdePOO\PracticasdePOO\bin\Debug\PracticasdePOO.exe.config
+C:\Talleres\PracticasdePOO\PracticasdePOO\bin\Debug\PracticasdePOO.exe
+C:\Talleres\PracticasdePOO\PracticasdePOO\bin\Debug\PracticasdePOO.pdb
+C:\Talleres\PracticasdePOO\PracticasdePOO\obj\Debug\PracticasdePOO.csproj.AssemblyReference.cache
+C:\Talleres\PracticasdePOO\PracticasdePOO\obj\Debug\PracticasdePOO.csproj.CoreCompileInputs.cache
+C:\Talleres\PracticasdePOO\PracticasdePOO\obj\Debug\PracticasdePOO.exe
+C:\Talleres\PracticasdePOO\PracticasdePOO\obj\Debug\PracticasdePOO.pdb

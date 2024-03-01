@@ -1,0 +1,7 @@
+C:\Talleres\Tallerpooejercicio6\Tallerpooejercicio6\bin\Debug\Tallerpooejercicio6.exe.config
+C:\Talleres\Tallerpooejercicio6\Tallerpooejercicio6\bin\Debug\Tallerpooejercicio6.exe
+C:\Talleres\Tallerpooejercicio6\Tallerpooejercicio6\bin\Debug\Tallerpooejercicio6.pdb
+C:\Talleres\Tallerpooejercicio6\Tallerpooejercicio6\obj\Debug\Tallerpooejercicio6.csproj.AssemblyReference.cache
+C:\Talleres\Tallerpooejercicio6\Tallerpooejercicio6\obj\Debug\Tallerpooejercicio6.csproj.CoreCompileInputs.cache
+C:\Talleres\Tallerpooejercicio6\Tallerpooejercicio6\obj\Debug\Tallerpooejercicio6.exe
+C:\Talleres\Tallerpooejercicio6\Tallerpooejercicio6\obj\Debug\Tallerpooejercicio6.pdb

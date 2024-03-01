@@ -1,0 +1,14 @@
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\bin\Debug\net7.0\tallerdeformateo.exe
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\bin\Debug\net7.0\tallerdeformateo.deps.json
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\bin\Debug\net7.0\tallerdeformateo.runtimeconfig.json
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\bin\Debug\net7.0\tallerdeformateo.dll
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\bin\Debug\net7.0\tallerdeformateo.pdb
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\tallerdeformateo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\tallerdeformateo.AssemblyInfoInputs.cache
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\tallerdeformateo.AssemblyInfo.cs
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\tallerdeformateo.csproj.CoreCompileInputs.cache
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\tallerdeformateo.dll
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\refint\tallerdeformateo.dll
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\tallerdeformateo.pdb
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\tallerdeformateo.genruntimeconfig.cache
+C:\Appsconsole2\Tallertipodatosxxxx\tallerdeformateo\obj\Debug\net7.0\ref\tallerdeformateo.dll

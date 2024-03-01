@@ -1,0 +1,7 @@
+C:\Talleres\UsoCuenta\UsoCuenta\bin\Debug\UsoCuenta.exe.config
+C:\Talleres\UsoCuenta\UsoCuenta\bin\Debug\UsoCuenta.exe
+C:\Talleres\UsoCuenta\UsoCuenta\bin\Debug\UsoCuenta.pdb
+C:\Talleres\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.csproj.AssemblyReference.cache
+C:\Talleres\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.csproj.CoreCompileInputs.cache
+C:\Talleres\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.exe
+C:\Talleres\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.pdb
