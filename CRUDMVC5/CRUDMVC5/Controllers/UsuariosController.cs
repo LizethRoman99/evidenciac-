@@ -20,26 +20,27 @@ namespace CRUDMVC5.Controllers
         }
 
         // GET: Usuarios
-        public async Task<IActionResult> Index(string buscar,String filtro)
+        public async Task<IActionResult> Index(string buscar,String filtrar)
         {
               var usuarios = from Usuario in _context.Usuarios select Usuario;
 
             if(!String.IsNullOrEmpty(buscar))
             {
                 usuarios = usuarios.Where(s =>s.Nombre!.Contains(buscar));
-                ViewData["FiltroNombre"] = String.IsNullOrEmpty(filtro) ? "NombreDescendente" : "";
-                ViewData["filtroFecha"] = filtro ==  "FechaAscendente" ? "FechaDescendente":"FechaAscendente";
-                switch(filtro)
+                ViewData["FiltroNombre"] = String.IsNullOrEmpty(filtrar) ? "NombreDescendente" : "";
+                ViewData["filtroFecha"] = filtrar == "FechaAscendente" ? "FechaDescendente" : "FechaAscendente";
+                switch(filtrar)
                 {
                     case "NombreDescendente":
                         usuarios = usuarios.OrderByDescending(usuario => usuario.Nombre);
                         break;
-                    case "FechaDescentente":
+                    case "FechaDescendente":
                         usuarios = usuarios.OrderByDescending(usuarios => usuarios.Fecha);
                         break;
-                    case "FechaScendente":
+                    case "FechaAscendente":
                         usuarios = usuarios.OrderBy(usuarios => usuarios.Fecha);
                         break;
+
                     default:
                         usuarios = usuarios.OrderByDescending(usuario => usuario.Nombre);
                         break;
