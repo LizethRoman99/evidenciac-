@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJ++ezVFjN8gY61wLv7y9DOxKK/FbsYlQJni5eG/rcHNxWeKwmP8kNAoVONgbZD2Ycsk5mvL6Sti/33JGDlY0g==",
+  "dgSpecHash": "RUQ8wt4n36K6rkLW5lmZMy6Ub8rzNGlGE/OFa6GHjTFKGDICqvX68tTVYYN0vBCwct6ol8Jy4ATngJuGI42V0w==",
   "success": true,
-  "projectFilePath": "C:\\projectef\\projectef.csproj",
+  "projectFilePath": "C:\\Crudc#\\projectef\\projectef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LIZETH\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\LIZETH\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

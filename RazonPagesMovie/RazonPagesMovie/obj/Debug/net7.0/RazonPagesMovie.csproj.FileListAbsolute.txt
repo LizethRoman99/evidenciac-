@@ -251,3 +251,4 @@ C:\Crudc#\RazonPagesMovie\RazonPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6
 C:\Crudc#\RazonPagesMovie\RazonPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Crudc#\RazonPagesMovie\RazonPagesMovie\obj\Debug\net7.0\RazonPagesMovie.csproj.AssemblyReference.cache
 C:\Crudc#\RazonPagesMovie\RazonPagesMovie\obj\Debug\net7.0\RazonPagesMovie.csproj.CopyComplete
+C:\Crudc#\RazonPagesMovie\RazonPagesMovie\obj\Debug\net7.0\RazonPagesMovie.sourcelink.json

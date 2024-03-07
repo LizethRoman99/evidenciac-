@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projectef\\projectef.csproj": {}
+    "C:\\Crudc#\\projectef\\projectef.csproj": {}
   },
   "projects": {
-    "C:\\projectef\\projectef.csproj": {
+    "C:\\Crudc#\\projectef\\projectef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projectef\\projectef.csproj",
+        "projectUniqueName": "C:\\Crudc#\\projectef\\projectef.csproj",
         "projectName": "projectef",
-        "projectPath": "C:\\projectef\\projectef.csproj",
+        "projectPath": "C:\\Crudc#\\projectef\\projectef.csproj",
         "packagesPath": "C:\\Users\\LIZETH\\.nuget\\packages\\",
-        "outputPath": "C:\\projectef\\obj\\",
+        "outputPath": "C:\\Crudc#\\projectef\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LIZETH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
